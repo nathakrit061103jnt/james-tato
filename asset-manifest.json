@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/main.9c6b04fe.chunk.js",
-    "main.js.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/main.9c6b04fe.chunk.js.map",
-    "runtime-main.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/runtime-main.e7c86ae7.js",
-    "runtime-main.js.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/runtime-main.e7c86ae7.js.map",
-    "static/js/2.02c32339.chunk.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/2.02c32339.chunk.js",
-    "static/js/2.02c32339.chunk.js.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/2.02c32339.chunk.js.map",
-    "static/js/3.0f3f5afd.chunk.js": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/3.0f3f5afd.chunk.js",
-    "static/js/3.0f3f5afd.chunk.js.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/3.0f3f5afd.chunk.js.map",
-    "index.html": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.02c32339.chunk.js.LICENSE.txt": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/js/2.02c32339.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%84/static/media/logo.6ce24c58.svg"
+    "main.css": "/james-tato/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/james-tato/static/js/main.9c6b04fe.chunk.js",
+    "main.js.map": "/james-tato/static/js/main.9c6b04fe.chunk.js.map",
+    "runtime-main.js": "/james-tato/static/js/runtime-main.a0b5e2eb.js",
+    "runtime-main.js.map": "/james-tato/static/js/runtime-main.a0b5e2eb.js.map",
+    "static/js/2.02c32339.chunk.js": "/james-tato/static/js/2.02c32339.chunk.js",
+    "static/js/2.02c32339.chunk.js.map": "/james-tato/static/js/2.02c32339.chunk.js.map",
+    "static/js/3.0f3f5afd.chunk.js": "/james-tato/static/js/3.0f3f5afd.chunk.js",
+    "static/js/3.0f3f5afd.chunk.js.map": "/james-tato/static/js/3.0f3f5afd.chunk.js.map",
+    "index.html": "/james-tato/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/james-tato/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.02c32339.chunk.js.LICENSE.txt": "/james-tato/static/js/2.02c32339.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/james-tato/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7c86ae7.js",
+    "static/js/runtime-main.a0b5e2eb.js",
     "static/js/2.02c32339.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.9c6b04fe.chunk.js"
